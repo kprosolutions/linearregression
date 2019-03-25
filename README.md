@@ -14,4 +14,4 @@ There are two types in Linear Regression
           The Y values are independent, as indicated by a random pattern on the residual plot.
           The Y values are roughly normally distributed (i.e., symmetric and unimodal). A little skewness is ok if the sample size is                 large. A histogram or a dotplot will show the shape of the distribution.
           
-  2. Multiple Linear Regression(MLR): This is used to find relationship between multiple independent variables and single dependent              variable. v
+  2. Multiple Linear Regression(MLR): This is used to find relationship between multiple independent variables and single dependent              variable. 
